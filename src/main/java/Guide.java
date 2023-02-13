@@ -75,5 +75,6 @@ public class Guide {
      *  than fail.
      */
 
-     //tests ran
+     //tests ran!
+     
 }
